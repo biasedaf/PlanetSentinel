@@ -1,0 +1,21 @@
+# datasets & processed
+data/raw/
+data/processed/
+data/live_stream/
+
+# models & artifacts
+*.pth
+model_inference.pth
+trained.pth
+mlruns/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
